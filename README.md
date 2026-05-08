@@ -1,5 +1,13 @@
 # Paper Reader - Claude Code Skill
 
+<p align="center">
+  <a href="https://github.com/chenyangji666/paper-reader/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License"></a>
+  <a href="https://claude.ai/code"><img src="https://img.shields.io/badge/Claude%20Code-Skill-orange.svg" alt="Claude Code Skill"></a>
+  <img src="https://img.shields.io/badge/Version-1.0.0-blue.svg" alt="Version">
+  <img src="https://img.shields.io/badge/Platform-Cross--Platform-purple.svg" alt="Platform">
+  <img src="https://img.shields.io/badge/Language-Markdown-informational.svg" alt="Language">
+</p>
+
 > 用场景化、比喻化的方式，带领你一步步读懂学术论文，让小白也能理解专业内容。
 
 <p align="center">
