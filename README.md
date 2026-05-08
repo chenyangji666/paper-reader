@@ -1,4 +1,4 @@
-# Paper Reader - Claude Code Skill
+# Paper Reader — 通俗读论文 Claude Code Skill
 
 <p align="center">
   <a href="https://github.com/chenyangji666/paper-reader/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License"></a>
